@@ -1,4 +1,3 @@
-# Python-module-end
 # Survey Feedback Analyzer
 
 ## Project Overview
@@ -10,12 +9,22 @@ A Python project that collects customer feedback, cleans text data, analyzes fee
 - Cleans feedback by removing punctuation, extra spaces, and converting text to lowercase.
 - Counts feedback entries containing specific words such as `good`, `poor`, and `excellent`.
 - Calculates the average customer rating.
-- Identifies the longest feedback comment and unique words.
+- Displays the final cleaned feedback data.
 
 ## Technologies Used
 - Python
 - Google Colab
 
-## Learning Outcomes
-Practiced Python dictionaries, lists, loops, functions, string methods, conditional statements, and built-in functions such as `sum()`, `len()`, and `max()`.
+## Python Concepts Used
+- **Data Structures:** Dictionaries and lists
+- **Loops:** `for` loop
+- **Functions:** User-defined functions
+- **Conditional Statements:** `if`
+- **String Methods:** `lower()`, `split()`, `replace()`, and `join()`
+- **Built-in Functions:** `print()`, `sum()`, and `len()`
+- **Operators:** Arithmetic operators and membership operator (`in`)
 
+## Learning Outcomes
+Practiced collecting and storing user input, manipulating strings, cleaning text data, counting specific words in customer feedback, and calculating average ratings using Python.
+
+drive link :https://drive.google.com/drive/folders/1-eLJDREChQeAmhMVqbmEelcXccGiVz4p?usp=sharing
